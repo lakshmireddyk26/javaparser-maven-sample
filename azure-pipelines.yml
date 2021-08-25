@@ -22,4 +22,4 @@ steps:
     effectivePomSkip: false
     sonarQubeRunAnalysis: true
     isJacocoCoverageReportXML: true
-    sqMavenPluginVersionChoice: 'latest'
+
